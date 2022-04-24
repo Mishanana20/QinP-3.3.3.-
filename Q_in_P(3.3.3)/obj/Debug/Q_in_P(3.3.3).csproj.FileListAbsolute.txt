@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\bin\Debug\Q_in_P(3.3.3).exe.config
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\bin\Debug\Q_in_P(3.3.3).exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\bin\Debug\Q_in_P(3.3.3).pdb
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\obj\Debug\Q_in_P(3.3.3).csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\obj\Debug\Q_in_P(3.3.3).csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\obj\Debug\Q_in_P(3.3.3).exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Q_in_P(3.3.3)\obj\Debug\Q_in_P(3.3.3).pdb
